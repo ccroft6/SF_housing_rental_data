@@ -1,0 +1,961 @@
+   50  cd UCB_class
+   51  cd /Users/catherinecroft/Desktop/UCB_class/UCB-VIRT-FIN-PT-12-2021-U-B
+   52  git status
+   53  clear
+   54  python atm.py
+   55  conda activate dev
+   56  python atm.py
+   57  clear
+   58  import questionary
+   59  pip install questionary
+   60  python atm.py
+   61  cd 
+   62  ls -al ~/.ssh
+   63  .ssh/
+   64  $ ls ~/.ssh/*.pub
+   65  ls ~/.ssh/*.pub
+   66  ssh-agent sh -c 'ssh-add; ssh-add -L'
+   67  ssh-agent sh -c 'ssh-add; ssh-add -l'
+   68  cat .ssh/id_rsa.pub |pbcopy
+   69  $ cat ~/.ssh/id_rsa.pub
+   70  ls -al ~/.ssh
+   71  cd /root/.ssh/
+   72  # ssh-keygen -l -f id_rsa
+   73  ssh-keygen -l -f id_rsa
+   74  eval "$(ssh-agent –s)"
+   75  conda activate dev
+   76  eval "$(ssh-agent –s)"
+   77  pbcopy < ~/.ssh/id_rsa.pub
+   78  ssh -T ccroft6@users.noreply.github.com
+   79  ssh -T ccroft6@users.noreply.github.com
+   80  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Challenge_1
+   81  python loan_analyzer.py
+   82  python loan_analyzer.py
+   83  clear
+   84  python loan_analyzer.py
+   85  python loan_analyzer.py
+   86  python loan_analyzer.py
+   87  python loan_analyzer.py
+   88  python loan_analyzer.py
+   89  python loan_analyzer.py
+   90  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Class_Activities/Class_2_Activities/09_Stu_Loops/Unsolved
+   91  loops.py
+   92  python loops.py
+   93  conda activate dev
+   94  conda activate dev
+   95  git status
+   96  ls
+   97  cd ..
+   98  cd Loan_Analyzer
+   99  cd ..
+  100  cd Berkeley-FinTech
+  101  cd Challenges
+  102  git clone git@github.com:ccroft6/Loan_Analyzer.git
+  103  git clone https://github.com/ccroft6/Loan_Analyzer.git
+  104  git add -A
+  105  cd Loan_Analyzer
+  106  git add -A
+  107  git commit -m "Added loan_analyzer.py"
+  108  git push
+  109  git add -A
+  110  git commit -m "Resolved issue with open statement"
+  111  git push
+  112  python loan_analyzer.py
+  113  python loan_analyzer.py
+  114  git add -A
+  115  git commit -m "Cleaned up the code spacing and comments"
+  116  git push
+  117  loan_analyzer.py
+  118  python loan_analyzer.py
+  119  /usr/local/bin/python3 /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Analyzer/loan_analyzer.py
+  120  /usr/local/bin/python3 /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Analyzer/loan_analyzer.py
+  121  /usr/local/bin/python3 /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Analyzer/loan_analyzer.py
+  122  /usr/local/bin/python3 /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Analyzer/loan_analyzer.py
+  123  cd Challenges
+  124  cd Loan_Analyzer
+  125  /usr/local/bin/python3 /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Analyzer/loan_analyzer.py
+  126  /usr/local/bin/python3 /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Analyzer/loan_analyzer.py
+  127  /usr/local/bin/python3 /Users/catherinecroft/Desktop/cli.py
+  128  /usr/local/bin/python3 /Users/catherinecroft/Desktop/cli.py
+  129  pwd
+  130  pip install fire
+  131  python cli.py
+  132  cd Desktop
+  133  python cli.py
+  134  import fire
+  135  python cli.py
+  136  python cli.py
+  137  python cli.py --pants=True
+  138  clear
+  139  cd /Users/catherinecroft/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved
+  140  python app.py
+  141  python app.py --credit_score=750
+  142  python app.py --credit_score=750
+  143  python app.py --credit_score = 750
+  144  python app.py --credit_score = 750
+  145  python app.py --credit_score=750
+  146  python app.py --credit_score
+  147  python app.py --credit_score
+  148  python app.py --credit_score=750
+  149  python app.py --credit_score=750 --debt=5000 --income=60000
+  150  python app.py --credit_score=750 --debt=5000 --income=60000
+  151  python app.py --credit_score=600 --debt=8000 --income=70000
+  152  pip install questionary
+  153  cd Desktop
+  154  python dialog.py
+  155  clear
+  156  cd ~
+  157  cd Desktop
+  158  python dialog.py
+  159  python dialog.py
+  160  python dialog.py
+  161  python dialog.py
+  162  clear
+  163  cd ~
+  164  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Module_Activities/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  165  python app.py --credit_score=750 --debt=5000 --income=20000
+  166  python app.py --credit_score=750 --debt=5000 --income=20000
+  167  python app.py
+  168  clear
+  169  cd ~
+  170  git config --global user.name Catherine Croft 
+  171  git config --global user.email 91442380+ccroft6@users.noreply.github.com
+  172  git config --list
+  173  cd Desktop
+  174  git clone https://github.com/ccroft6/readme_practice.git
+  175  conda activate dev
+  176  git clone https://github.com/ccroft6/Loan_Qualifier_App.git
+  177  cd Desktio
+  178  cd ~
+  179  cd Desktop
+  180  cd Berkeley-FinTech
+  181  cd Challenges
+  182  cd Loan_Qualifier_App
+  183  git clone https://github.com/ccroft6/Loan_Qualifier_App.git
+  184  cd Desktop
+  185  cd Berekel
+  186  cd Berkeley-FinTech
+  187  cd Challenges
+  188  git clone https://github.com/ccroft6/Loan_Qualifier_App.git
+  189  git clone https://github.com/ccroft6/Loan_Qualifier_App.git
+  190  ls
+  191  cd Loan_Qualifier_App
+  192  mkdir data
+  193  mkdir qualifier
+  194  cd qualifier
+  195  mkdir filters
+  196  mkdir utils
+  197  cd ..
+  198  touch app.py
+  199  cd qualifier
+  200  cd filters
+  201  touch credit_score.py
+  202  touch debt_to_income.py
+  203  touch loan_to_value.py
+  204  touch max_loan_size.py
+  205  cd..
+  206  cd ..
+  207  cd utils
+  208  touch calculators.py
+  209  touch fileio.py
+  210  cd ..
+  211  cd ..
+  212  git add -A
+  213  conda activate dev
+  214  git add -A
+  215  git commit -m "Initial commit with files added"
+  216  git push
+  217  git push
+  218  python app.py
+  219  python app.py
+  220  python app.py
+  221  python app.py
+  222  python app.py
+  223  python app.py
+  224  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  225  python app.py
+  226  conda activate dev
+  227  conda list pandas
+  228  conda list jupyterlab
+  229  conda list
+  230  conda activate dev
+  231  python -m ipykernal install --user --name dev --display-name "Python (dev)"
+  232  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  233  jupyter lab
+  234  conda deactivate
+  235  clear
+  236  conda activate dev
+  237  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  238  jupyter lab
+  239  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Module_Activities/01_Importing_the_VIX
+  240  jupyter lab
+  241  conda activate dev
+  242  jupyter lab
+  243  conda deactivate
+  244  conda activate dev
+  245  jupyter lab
+  246  jupyter lab
+  247  conda activate dev
+  248  jupyter lab
+  249  conda deactivate
+  250  conda activate dev
+  251  conda activate dev
+  252  jupyter lab
+  253  jupyter lab
+  254  conda activate dev
+  255  jupyter lab
+  256  conda deactivate
+  257  conda activate dev
+  258  jupyter lab
+  259  conda deactivate
+  260  conda activate dev
+  261  jupyter lab
+  262  conda deactivate
+  263  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  264  conda activate dev
+  265  python app.py
+  266  python app.py
+  267  python app.py
+  268  conda activate dev
+  269  jupyter lab
+  270  jupyter lab
+  271  conda activate dev
+  272  jupyter lab
+  273  jupyter lab
+  274  cd python app.py
+  275  conda activate dev
+  276  python app.py
+  277  conda activate dev
+  278  jupyter lab
+  279  conda activate dev
+  280  /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  281  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  282  python app.py
+  283  python app.py
+  284  python app.py
+  285  python app.py
+  286  python app.py
+  287  python app.py
+  288  python app.py
+  289  python app.py
+  290  python app.py
+  291  python app.py
+  292  python app.py
+  293  python app.py
+  294  python app.py
+  295  python app.py
+  296  python app.py
+  297  python app.py
+  298  python app.py
+  299  clear
+  300  git clone https://github.com/ccroft6/Loan_Qualifier_App.git
+  301  git add -A
+  302  git rm --cached Loan_Qualifier_App
+  303  clear
+  304  conda activate dev
+  305  git add -A
+  306  conda activate dev
+  307  git add -A
+  308  git commit -m "Added the usability dialog for saving the CSV files"
+  309  git push
+  310  clear
+  311  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App/Loan_Qualifier_App
+  312  conda activate dev
+  313  python app.py
+  314  python app.py
+  315  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App/Loan_Qualifier_App
+  316  python app.py
+  317  /usr/local/bin/python3 /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App/app.py
+  318  /usr/local/bin/python3 /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App/app.py
+  319  conda activate dev
+  320  /usr/local/bin/python3 /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App/app.py
+  321  /Users/catherinecroft/opt/anaconda3/envs/dev/bin/python /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App/app.py
+  322  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  323  conda activate dev
+  324  git add -A
+  325  git commit -m "Removed duplicate folder that was accidentally cloned"
+  326  git push
+  327  python app.py
+  328  clear
+  329  python app.py
+  330  python app.py
+  331  python app.py
+  332  python app.py
+  333  python app.py
+  334  clear
+  335  conda activate dev
+  336  jupyter lab
+  337  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  338  python app.py
+  339  python app.py
+  340  python app.py
+  341  python app.py
+  342  python app.py
+  343  python app.py
+  344  conda activate dev
+  345  conda activate dev
+  346  jupyter lab
+  347  conda activate dev
+  348  jupyter lab
+  349  conda activate dev
+  350  jupyter lab
+  351  conda deactivate
+  352  ssh-keygen -t ed25519 -C "91442380+ccroft6@users.noreply.github.com"
+  353  eval "$(ssh-agent -s)"
+  354  open ~/.ssh/config
+  355  ssh-add -K ~/.ssh/id_ed25519
+  356  gh ssh-key add ~/.ssh/id_ed25519.pub
+  357  gh ssh-key add SHA256:NDWzR4o6ojtrDaEE/Wf+UNa4/kNsndGU5Gi8dz5HqsI 91442380+ccroft6@users.noreply.github.com
+  358  conda activate dev
+  359  gh ssh-key add ~/.ssh/id_ed25519.pub\n
+  360  git ssh-key add ~/.ssh/id_ed25519.pub\n
+  361  gh auth login
+  362  gh ssh-key add ~/.ssh/id_ed25519.pub\n
+  363   eval "$(ssh-agent –s)\n\neval "$(ssh-agent –s)
+  364  eval "$(ssh-agent –s)\n\n\n\neval "$(ssh-agent –s)
+  365  conda deactivate
+  366  ssh-add ~/.ssh/id_rsa
+  367  pbcopy < ~/.ssh/id_rsa.pub
+  368  ssh –T git@github.com
+  369  ssh -T 91442380+ccroft6@users.noreply.github.com
+  370  ssh –T git@github.com
+  371  sudo killall -HUP mDNSResponder
+  372  ssh –T git@github.com
+  373  $ ssh -T git@github.com
+  374  $ ssh -T git@github.com
+  375   ssh -T git@github.com
+  376  conda activate dev
+  377  jupyter lab
+  378  jupyter lab
+  379  conda deactivate
+  380  conda activate dev
+  381  jupyter lab
+  382  conda activate dev
+  383  jupyter lab
+  384  conda deactivate
+  385  conda activate dev
+  386  jupyter lab
+  387  conda deactivate
+  388  conda activate dev
+  389  /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  390  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  391  clear
+  392  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  393  python app.py
+  394  conda activate dev
+  395  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  396  python app.py
+  397  conda activate dev
+  398  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  399  conda activate dev
+  400  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  401  python app.py
+  402  cler
+  403  clear
+  404  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  405  python app.py
+  406  conda activate dev
+  407  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  408  python app.py
+  409  conda activate dev
+  410  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  411  python app.py
+  412  conda activate dev
+  413  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  414  python app.py
+  415  conda activate dev
+  416  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  417  git add -A
+  418  git commit -m "Updated the README file"
+  419  git push
+  420  clear
+  421  sudo find / -name ".DS_Store" -depth -exec rm {} \;
+  422  conda activate dev
+  423  git clone git@github.com:ccroft6/Bitcoin_Arbitrage.git
+  424  git clone git@github.com:ccroft6/Bitcoin_Arbitrage.git
+  425  ls 
+  426  git clone https://github.com/ccroft6/Bitcoin_Arbitrage.git
+  427  conda activate dev
+  428  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  429  pytho app.py
+  430  python app.py
+  431  clear
+  432  ~/
+  433  cd ~
+  434  ls -al ~/.ssh
+  435  ssh -keygen -t rsa -b 4096 -C "catherinecroft1014@gmail.com"
+  436  ssh-keygen -t rsa -b 4096 -C "catherinecroft1014@gmail.com\n"
+  437  eval "$(ssh-agent -s)"
+  438  ssh-add ~/.ssh/id_rsa
+  439  pbcopy < ~/.ssh/id_rsa.pub
+  440  ssh -T git@github.com
+  441  conda activate dev
+  442  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  443  git add -A
+  444  git commit -m "Added clarifying comments"
+  445  git push
+  446  git add -A
+  447  git commit -m "Added clarifying comments"
+  448  git push
+  449  git fetch
+  450  git checkout -mmain .gitignore
+  451  git add .gitignore
+  452  git commit
+  453  conda activate dev
+  454  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Challenges/Loan_Qualifier_App
+  455  git add -A
+  456  git commit -m "Added clarifying comments"
+  457  git push
+  458  git fetch origin
+  459  git merge origin main
+  460  git fetch origin
+  461  git merge origin main
+  462  git fetch origin
+  463  git merge origin main
+  464  git fetch origin
+  465  git merge origin main
+  466  git add -A
+  467  git commit -m "Added clarifying comments"
+  468  clear
+  469  python app.py
+  470  git add -A
+  471  git commit -m "Added qualifying loans list example"
+  472  git push
+  473  history 50 > terminal_history.txt
+  474  git add -A
+  475  git commit -m "Added terminal_history.txt file"
+  476  git push
+  477  conda activate dev
+  478  conda activate dev
+  479  git clone https://github.com/ccroft6/Crypto_Arbitrage.git
+  480  conda activate dev
+  481  $ ssh -vT git@github.com
+  482  ssh -vT git@github.com
+  483  git remote set-url
+  484  ssh -T catherinecroft1014@gmail.com
+  485  eval "$(ssh-agent -s)"
+  486  ssh-add -l -E sha256
+  487  conda activate dev
+  488  conda activate dev
+  489  git add -A
+  490  git commit -m "Collected and prepared data"
+  491  git push
+  492  conda deactivate
+  493  conda activate dev
+  494  jupyter lab
+  495  conda deactivaate
+  496  conda deactivate
+  497  conda activate dev
+  498  jupyter notebook
+  499  conda activate dev
+  500  jupyter notebook
+  501  conda activate dev
+  502  jupyter lab
+  503  conda deactivate
+  504  conda activate dev
+  505  jupyter lab
+  506  conda deactivate
+  507  conda activate dev
+  508  jupyter lab
+  509  conda deactivate
+  510  conda activate dev
+  511  jupyter lab
+  512  conda deactivate
+  513  conda activate dev
+  514  jupyter lab
+  515  conda activate dev
+  516  jupyter lab
+  517  conda activate dev
+  518  jupyter lab
+  519  conda deactivate
+  520  conda activate dev
+  521  jupyter lab
+  522  conda deactivate
+  523  conda activate dev
+  524  git pull
+  525  git pull 04-Quantative-Analysis-with-Pandas
+  526  conda activate dev
+  527  jupyter lab
+  528  conda activate dev
+  529  jupyter lab
+  530  conda activate dev
+  531  jupyter lab
+  532  conda activate dev
+  533  jupyter lab
+  534  conda deactivate
+  535  conda activate dev
+  536  jupyter lab
+  537  conda deactivate
+  538  conda activate dev
+  539  git clone git@github.com:ccroft6/Loan_Qualifier_App.git
+  540  git clone git@github.com:ccroft6/Loan_Qualifier_App.git
+  541  ls -al ~/.ssh
+  542  eval "$(ssh-agent -s)"
+  543  pbcopy < ~/.ssh/id_rsa.pub
+  544  ssh-add ~/.ssh/id_rsa.pub
+  545  conda activate dev
+  546  jupyter lab
+  547  conda deactivate
+  548  conda activate dev
+  549  git add crypto_arbitrage.ipynb
+  550  git commit -m "Obtained summary stats and plotted data"
+  551  git push
+  552  git add crypto_arbitrage.ipynb
+  553  git commit -m "Analyzed early, middle, and late specific dates"
+  554  git push
+  555  git add crypto_arbitrage.ipynb\n
+  556  git commit -m "Calculated the arbitrage profits"
+  557  git push
+  558  conda deactivate
+  559  conda activate dev
+  560  jupyter lab
+  561  conda deactivate
+  562  conda activate dev
+  563  ~/.ssh
+  564  ssh -vT git@github.com
+  565  ls -al ~/.ssh
+  566  cat id_rsa.pub
+  567  cd id_rsa.pub
+  568  ls
+  569  sudo chmod 600 /path/to/my/key.pem
+  570  sudo chmod 755 ~/.ssh
+  571  git clone git@github.com:ccroft6/readme_practice.git
+  572  ls -al ~/.ssh
+  573  ssh-keygen -t rsa -b 4096 -C "catherinecroft1014@gmail.com"
+  574  eval "$(ssh-agent -s)"
+  575  ssh-add ~/.ssh/id_rsa
+  576  pbcopy < ~/.ssh/id_rsa.pub
+  577  ssh -T git@github.com
+  578  git clone git@github.com:ccroft6/readme_practice.git
+  579  pbcopy < ~/.ssh/id_rsa.pub
+  580  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  581  ssh -T ucb.bootcampcontent.com
+  582  ssh -T ucb.bootcampcontent.com
+  583  ssh -T git@ucb.bootcampcontent.com
+  584  pbcopy < ~/.ssh/id_rsa.pub
+  585  ssh -T git@ucb.bootcampcontent.com
+  586  ls
+  587  cd desktop
+  588  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git test
+  589  git clone git@github.com:ccroft6/readme_practice.git
+  590  git clone git@github.com:ccroft6/fintech.git
+  591  ls
+  592  cd Users/catherinecroft/.ssh/id_rsa
+  593  cd .ssh/id_rsa
+  594  clear
+  595  git pull
+  596  git commit -m "Updated REAME"
+  597  clear
+  598  git pull
+  599  git add README.md
+  600  git stash
+  601  git stash pop
+  602  git pull
+  603  git reset --hard
+  604  git pull
+  605  git pull
+  606  git add crypto_arbitrage.ipynb
+  607  git commit -m "Updated the middle date to better support conclusions" 
+  608  git push
+  609  clear
+  610  conda activate dev
+  611  jupyter lab
+  612  conda deactivate
+  613  conda activate dev
+  614  git add crypto_arbitrage.ipynb
+  615  git commit -m "Updated the comments to be more clear"
+  616  git push
+  617  conda deactivate
+  618  conda activate dev
+  619  jupyter lab
+  620  conda deactivate
+  621  conda activate dev
+  622  git add README.md
+  623  git commit -m "Updated the README file"
+  624  git push
+  625  git add README.md
+  626  git commit -m "Fixed image path error"
+  627  git push
+  628  git add README.md
+  629  git commit -m "Fixed file names for path"
+  630  git push
+  631  git add README.md
+  632  git commit -m "Changed path to images"
+  633  git push
+  634  git add Screenshots
+  635  git commit -m "Added screenshots folder"
+  636  git push
+  637  git add README.md
+  638  git commit -m "Fixed image path to screenshots folder"
+  639  git push
+  640  history 50 > terminal_history.txt
+  641  git add terminal_history.txt
+  642  git commit -m "Added terminal history file"
+  643  git push
+  644  conda deactivate
+  645  conda activate dev
+  646  jupyter lab
+  647  conda activate dev
+  648  jupyter lab
+  649  conda deactivate
+  650  conda activate dev
+  651  jupyter lab
+  652  conda deactivate
+  653  conda activate dev
+  654  git clone https://github.com/ccroft6/Risk_Return_Analysis.git
+  655  git add -A
+  656  git commit -m "Initial commit"
+  657  git add -A
+  658  git commit -m "Initial commit"
+  659  git push
+  660  conda activate dev
+  661  conda list requests
+  662  conda list json
+  663  pip install python-dotenv
+  664  pip install alpaca-trade-api
+  665  pip list | grep -E "python-dotenv|alpaca-trade-api"
+  666  conda list python-dotenv
+  667  conda list alpaca-trade-api
+  668  jupyter lab --ContentManager.allow_hidden=True
+  669  conda deactivate
+  670  conda activate dev
+  671  jupyter lab
+  672  conda install -c anaconda requests
+  673  conda install -c jmcmurray json
+  674  conda activate dev
+  675  jupyter lab
+  676  conda activate dev
+  677  jupyter lab
+  678  conda deactivate
+  679  conda activate dev
+  680  jupyter lab
+  681  conda activate dev
+  682  jupyter lab
+  683  git pull
+  684  conda activate dev
+  685  jupyter lab
+  686  conda activate dev
+  687  jupyter lab
+  688  conda deactivate
+  689  conda activate dev
+  690  jupyter lab
+  691  conda deactivate
+  692  conda activate dev
+  693  jupyter lab
+  694  conda deactivate
+  695  conda activate dev
+  696  jupyter lab
+  697  jupyter lab
+  698  conda activate dev
+  699  jupyter lab
+  700  conda deactivate
+  701  conda activate dev
+  702  git add risk_return_analysis.ipynb
+  703  git commit -m "Imported the data"
+  704  git push
+  705  git add risk_return_analysis.ipynb
+  706  git commit -m "Analyzed the performance of funds and S&P 500"
+  707  git push
+  708  conda deactivate
+  709  conda activate dev
+  710  jupyter lab
+  711  conda deactivate\n
+  712  conda activate dev
+  713  jupyter lab
+  714  conda activate dev
+  715  git add risk_return_analysis.ipynb
+  716  git commit -m "Analyzed the volatility of funds and S&P 500"
+  717  git push
+  718  conda activate dev
+  719  jupyter lab
+  720  conda activate dev
+  721  git pull
+  722  conda activate dev
+  723  jupyter lab
+  724  conda activate dev
+  725  jupyter lab
+  726  jupyter lab
+  727  conda activate dev
+  728  jupyter lab
+  729  conda activate dev
+  730  git add risk_return_analysis.ipynb
+  731  git commit -m "Analyzed the risk-return profile"
+  732  git push
+  733  git add risk_return_analysis.ipynb
+  734  git commit -m "Analyzed betas of two portfolios"
+  735  git push
+  736  git add README.md
+  737  git commit -m "Created README outline"
+  738  git push
+  739  conda deactivate
+  740  conda activate dev
+  741  jupyter lab
+  742  conda deactivate
+  743  conda activate dev
+  744  jupyter lab
+  745  conda activate dev
+  746  git add README.md
+  747  git commit -m "Added information to the README file"
+  748  git push
+  749  conda activate dev
+  750  git clone https://github.com/ccroft6/Financial_Planning_Tools.git
+  751  git add financial_planning_tools.ipynb
+  752  git commit -m "Evaluated the crypto wallet by using the requests library"
+  753  git push
+  754  conda activate dev
+  755  jupyter lab
+  756  conda activate dev
+  757  git add -A
+  758  git commit -m "Initial commit"
+  759  git push
+  760  jupyter lab
+  761  conda activate dev
+  762  jupyter lab
+  763  conda activate dev
+  764  git add Screenshots
+  765  git commit -m "Added screenshots folder"
+  766  git push
+  767  git add Screenshots
+  768  git commit -m "Removed wrong image from folder"
+  769  git push
+  770  git add -A
+  771  git commit -m "Updated file contents" 
+  772  git push
+  773  conda activate dev
+  774  jupyter lab
+  775  git add README.md
+  776  git commit -m "Updated Findings section"
+  777  git push
+  778  conda activate dev
+  779  jupyter lab
+  780  conda activate dev
+  781  git add README.md
+  782  git commit -m "Updated the findings section"
+  783  git push
+  784  git add Screenshots
+  785  git commit -m "Added screenshots"
+  786  git push
+  787  git add README.md 
+  788  git commit -m "Fixed relative path to images"
+  789  git push
+  790  git add README.md
+  791  git commit -m "Fixed relative path error"
+  792  git push
+  793  git add risk_return_analysis.ipynb
+  794  git commit -m "Refined the analysis responses"
+  795  git push
+  796  git add README.md
+  797  git commit -m "Fixed grammatical errors"
+  798  git push
+  799  conda deactivate
+  800  conda activate dev
+  801  jupyter lab
+  802  history 50 > terminal_history.txt
+  803  conda deactivate
+  804  history 50 > terminal_history.txt
+  805  conda activate dev
+  806  git add terminal_history.txt 
+  807  git commit -m "Added terminal history txt"
+  808  git push
+  809  conda activate dev
+  810  conda install -c pyviz hvplot geoviews
+  811  conda list hvplot
+  812  conda list geoviews
+  813  jupyter lab
+  814  conda activate dev
+  815  jupyter lab
+  816  conda deactivate
+  817  conda activate dev
+  818  jupyter lab
+  819  conda activate dev
+  820  jupyter lab
+  821  conda activate dev
+  822  jupyter lab
+  823  conda deactivate
+  824  conda activate dev
+  825  conda activate dev
+  826  git pull
+  827  conda activate dev
+  828  jupyter lab
+  829  conda activate dev
+  830  jupyter lab
+  831  conda deactivate
+  832  mkdir Michigan
+  833  cd Desktop
+  834  mkdir Michigan
+  835  python app.py
+  836  conda activate dev 
+  837  jupyter lab
+  838  conda activate dev
+  839  jupyter lab
+  840  conda activate dev
+  841  jupyter lab
+  842  conda activate dev
+  843  jupyter lab
+  844  git pull
+  845  git pull
+  846  conda activate dev
+  847  jupyter lab
+  848  conda activate dev
+  849  jupyter lab
+  850  conda activate dev
+  851  jupyter lab --ContentsManager.allow_hidden=True
+  852  conda activate dev
+  853  jupyter lab
+  854  conda activate dev
+  855  git add financial_planning_tools.ipynb
+  856  git commit -m "Evaluated stock and bond holdings via Alpaca"
+  857  git push
+  858  conda activate dev
+  859  jupyter lab
+  860  jupyter lab
+  861  conda activate dev
+  862  jupyter lab
+  863  conda activate dev
+  864  git add financial_planning_tools.ipynb
+  865  git commit -m "Evaluated the Emergency Fund"
+  866  git push
+  867  git add financial_planning_tools.ipynb
+  868  git commit -m "Added Monte Carlo Sim for 30yrs"
+  869  git push
+  870  git add financial_planning_tools.ipynb
+  871  git commit -m "Completed Monte Carlo sim for 10 yrs comparison"
+  872  git push
+  873  conda deactivate
+  874  conda activate dev
+  875  jupyter lab
+  876  conda activate dev
+  877  git add financial_planning_tools.ipynb
+  878  git commit -m "Updated monte carlo weights"
+  879  git push
+  880  conda activate dev
+  881  jupyter lab
+  882  conda activate dev
+  883  jupyter lab
+  884  conda activate dev
+  885  git add financial_planning_tools.ipynb
+  886  git commit -m "Analyzed data and answered final question"
+  887  git push
+  888  git add README.md
+  889  git commit -m "Updated the README file"
+  890  git push
+  891  git add financial_planning_tools.ipynb
+  892  git commit -m "Updated analysis and reviewed code"
+  893  git push
+  894  history 50 > terminal_history.txt
+  895  git add terminal_history.txt
+  896  git commit -m "Added terminal history file"
+  897  git push
+  898  conda activate dev
+  899  jupyter lab
+  900  git add financial_planning_tools.ipynb
+  901  git commit -m "Updated formatting of final analysis question"
+  902  git push
+  903  conda activate dev
+  904  jupyter lab
+  905  conda deactivate
+  906  conda activate dev
+  907  conda list sqlalchemy
+  908  conda install -c conda-forge voila 
+  909  conda list voila
+  910  conda activate dev
+  911  git pull
+  912  conda activate dev
+  913  jupyter lab
+  914  conda activate dev
+  915  jupyter lab
+  916  conda activate dev
+  917  jupyter lab
+  918  conda activate dev
+  919  jupyter lab
+  920  conda activate dev
+  921  jupyter lab
+  922  conda activate dev
+  923  jupyter lab
+  924  conda activate dev
+  925  jupyter lab
+  926  git pull
+  927  conda activate dev
+  928  jupyter lab
+  929  conda activate dev
+  930  jupyter lab
+  931  python a_crud_based_cli_application.py
+  932  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Module_Activities/Module 7/01_A_CRUD-Based_CLI_Application/Unsolved
+  933  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Module_Activities/Module 7/01_A_CRUD-Based_CLI_Application/Unsolve
+  934  cd /Users/catherinecroft/Desktop/Berkeley-FinTech/Module_Activities/Module_7/01_A_CRUD-Based_CLI_Application/Unsolved
+  935  python a_crud_based_cli_application.py
+  936  python a_crud_based_cli_application.py\n
+  937  ls
+  938  voila web_app.ipynb
+  939  voila web_app.ipynb
+  940  conda activate dev
+  941  voila web_app.ipynb\n
+  942  conda activate dev
+  943  jupyter lab
+  944  git clone https://github.com/ccroft6/SF_housing_rental_data.git
+  945  conda activate dev
+  946  git add san_francisco_housing.ipynb
+  947  git commit -m "Calculated and plotted housing units per year"
+  948  git push
+  949  git add san_francisco_housing.ipynb\n
+  950  git commit -m "Calculated average sales prices per square foot"
+  951  git push
+  952  git add san_francisco_housing.ipynb\n
+  953  git commit -m "Compared average sale prices by neighborhood"
+  954  git push
+  955  git add san_francisco_housing.ipynb\n
+  956  git commit -m "Build interactive neighborhood map"
+  957  git push
+  958  git add san_francisco_housing.ipynb\n
+  959  git commit -m "Compose the data story"
+  960  git push
+  961  git add Resources
+  962  git commit -m "Initial commit"
+  963  git push
+  964  git add Images
+  965  git commit -m "Initial commit"
+  966  git push
+  967  conda activate dev
+  968  jupyter lab
+  969  git clone https://github.com/ccroft6/ETF_Analyzer.git
+  970  conda activate dev
+  971  git add -A
+  972  git commit -m "Initial commit"
+  973  git push
+  974  conda activate dev
+  975  jupyter lab
+  976  conda activate dev
+  977  git add etf_analyzer.ipynb
+  978  git commit -m "Analyze PYPL ETF"
+  979  git push
+  980  git add etf_analyzer.ipynb
+  981  git commit -m "Optimize the SQL queries"
+  982  git push
+  983  git add etf_analyzer.ipynb
+  984  git commit -m "Analyze Fintech ETF portfolio"
+  985  git push
+  986  conda activate dev
+  987  jupyter lab
+  988  conda activate dev
+  989  jupyter lab
+  990  conda activate dev
+  991  jupyter lab
+  992  conda activate dev
+  993  jupyter lab
+  994  conda activate dev
+  995  jupyter lab
+  996  voila etf_analyzer.ipynb
+  997  conda activate dev
+  998  voila etf_analyzer.ipynb
+  999  conda activate dev
+ 1000  jupyter lab
+ 1001  conda activate dev
+ 1002  git add README.md
+ 1003  git commit -m "Update README"
+ 1004  git push
+ 1005  git add san_francisco_housing.ipynb
+ 1006  git commit -m "Cleaned code"
+ 1007  git push
+ 1008  git add san_francisco_housing.ipynb
+ 1009  git commit -m "Clean up comments"
+ 1010  git push
